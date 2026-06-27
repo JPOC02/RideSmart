@@ -1,0 +1,9 @@
+venv/
+cache/
+.ipynb_checkpoints/
+
+*.svg
+
+__pycache__/
+*.py[cod]
+*$py.class
